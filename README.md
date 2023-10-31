@@ -78,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://github.com/navanee1609/gpt3/assets/120004894/b9282333-a0bc-40c6-9639-eea7ee60fe81
 
+
+![GPT3](https://github.com/navanee1609/gpt3/assets/120004894/e0d0b130-1c35-473f-9675-84c5a69e6123)
+
+
